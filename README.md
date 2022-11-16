@@ -13,7 +13,7 @@ I am providing these services as a freelancer.
      - Ad support
      - UI optimized for mobile and pc
      - Source code
-2. Full web application in Code Ignitor 3.
+2. Full web application in CodeIgniter 3.
     - Client Management
     - User Management
     - Expense Calculation and Tracking
