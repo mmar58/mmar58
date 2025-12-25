@@ -1,6 +1,6 @@
 # Hi there, I'm Rahman! 👋
 
-### [Founder](https://www/anzdevelopers.com/team/mmar58) of [AnZDevelopers](https://www.anzdevelopers.com) 🚀
+### [Founder](https://www.anzdevelopers.com/team/mmar58) of [AnZDevelopers](https://www.anzdevelopers.com) 🚀
 *Building things to make people's life fun, easy, and more productive.*
 
 ---
