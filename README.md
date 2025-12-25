@@ -7,9 +7,11 @@
 
 ## 🛠️ Tech Stack
 
-### 🎮 Game Development
+### 🎮 Game & App Development
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 💻 Web Development
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
@@ -25,7 +27,7 @@
 ## 🔭 Current Work
 I am currently the sole developer and founder at **AnzDevelopers**, working on exciting projects to bring fun and productivity to users' lives.
 
-- 🕹️ **Game & App Development**: Specializing in Unity for cross-platform games and apps.
+- 🕹️ **Game & App Development**: Specializing in Unity and Flutter for cross-platform games and apps.
 - 🌐 **Realtime Web Systems**: Building reactive UIs with Svelte and robust backends with Node.js.
 
 ---
