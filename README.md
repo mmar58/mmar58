@@ -24,7 +24,7 @@
 
 ---
 
-## � Work Experience
+## 💼 Work Experience
 
 ### 🚀 AnzDevelopers
 **Founder & Lead Developer**  
@@ -44,11 +44,26 @@
 
 ---
 
-## �🔭 Current Work
-I am currently the sole developer and founder at **AnzDevelopers**, working on exciting projects to bring fun and productivity to users' lives.
+## � Current Working Projects
 
-- 🕹️ **Game & App Development**: Specializing in Unity and Flutter for cross-platform games and apps.
-- 🌐 **Realtime Web Systems**: Building reactive UIs with Svelte and robust backends with Node.js.
+### [Project Name 1]
+*Brief description of what you are building right now.*
+- **Tech Stack**: Unity, C# / Svelte, Node.js
+- [� GitHub](#) • [🌐 Live Demo](#)
+
+---
+
+## 📂 Portfolio
+
+### [Awesome Game Title]
+*A fun and addictive 2D platformer game.*
+- **Tech Stack**: Unity, C#
+- [💻 GitHub](#) • [🌐 Play Store/App Store](#)
+
+### [Productivity Web App]
+*A real-time task management tool.*
+- **Tech Stack**: Svelte, Node.js, Socket.io
+- [💻 GitHub](#) • [🌐 Live Site](#)
 
 ---
 
