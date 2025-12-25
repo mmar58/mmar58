@@ -1,6 +1,6 @@
 # Hi there, I'm Rahman! 👋
 
-### Founder of AnzDevelopers 🚀
+### [Founder](https://www/anzdevelopers.com/team/mmar58) of [AnZDevelopers](https://www.anzdevelopers.com) 🚀
 *Building things to make people's life fun, easy, and more productive.*
 
 ---
@@ -46,16 +46,16 @@
 
 ## � Current Working Projects
 
-### [Project Name 1]
+<!-- ### [Project Name 1]
 *Brief description of what you are building right now.*
 - **Tech Stack**: Unity, C# / Svelte, Node.js
-- [� GitHub](#) • [🌐 Live Demo](#)
+- [� GitHub](#) • [🌐 Live Demo](#) -->
 
 ---
 
 ## 📂 Portfolio
 
-### [Awesome Game Title]
+<!-- ### [Awesome Game Title]
 *A fun and addictive 2D platformer game.*
 - **Tech Stack**: Unity, C#
 - [💻 GitHub](#) • [🌐 Play Store/App Store](#)
@@ -63,18 +63,13 @@
 ### [Productivity Web App]
 *A real-time task management tool.*
 - **Tech Stack**: Svelte, Node.js, Socket.io
-- [💻 GitHub](#) • [🌐 Live Site](#)
+- [💻 GitHub](#) • [🌐 Live Site](#) -->
 
 ---
 
 ## 📫 Connect with Me
 
 - 📧 **Email**: [rahmanapu118@gmail.com](mailto:rahmanapu118@gmail.com)
+- 📞 **Contact us**: [Contact us](https://www.anzdevelopers.com/contact)
+- 💼 **Upwork**: [Hire me on Upwork](https://www.upwork.com/freelancers/~01592faa28412cc5a0)
 - 💼 **Fiverr**: [Hire me on Fiverr](https://www.fiverr.com/mmar58)
-
----
-
-## 📊 GitHub Stats
-
-![Rahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmar58&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmar58&layout=compact&theme=radical)
