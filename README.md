@@ -24,7 +24,27 @@
 
 ---
 
-## 🔭 Current Work
+## � Work Experience
+
+### 🚀 AnzDevelopers
+**Founder & Lead Developer**  
+*Dec 14, 2025 - Present*  
+- Leading the development of fun and productive tools.
+- One-man army handling everything from game logic (Unity) to real-time web backends (Node.js).
+
+### 🪄 Magic Mind
+**Lead Unity and Web Developer**  
+*Sep 2022 - Present*  
+- **Lead Unity and Web Developer** _(Current)_  
+  Leading the development team for Unity games and web applications.
+- **Unity Developer**  _(Sep 2023 - Jan 2025)_  
+  Developed and maintained core gameplay mechanics.
+- **Junior Unity Developer** _(Sep 2022 - Sep 2023)_  
+  Started journey in game development, learning and shipping features.
+
+---
+
+## �🔭 Current Work
 I am currently the sole developer and founder at **AnzDevelopers**, working on exciting projects to bring fun and productivity to users' lives.
 
 - 🕹️ **Game & App Development**: Specializing in Unity and Flutter for cross-platform games and apps.
