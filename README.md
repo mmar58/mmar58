@@ -55,6 +55,20 @@
 
 ## 📂 Portfolio
 
+### [Famstrack](https://www.famstrack.com)
+*A comprehensive workforce and security management system featuring a real-time web dashboard, backend API, and a mobile app for field employees.*
+
+![Famstrack Landing](./images/famstrack_landing.png)
+
+**✨ Key Features:**
+- **Multi-Tenant Architecture:** Designed for SaaS with company isolation, feature toggling, and role-based access control (Admin, Manager, Guard).
+- **Offline-First Mobile App:** Field workers can complete shift tours, capture checkpoints, and take photo evidence without internet access; automatically syncs when back online.
+- **Real-Time Tracking & Dashboard:** Live map tracking, instant incident reports, and real-time attendance (clock-ins/clock-outs) powered by Socket.IO.
+- **Shift & Tour Management:** Comprehensive shift scheduling, checkpoint tours, and automated shift assignments.
+
+- **Tech Stack**: SvelteKit, Node.js, Fastify, Socket.IO, MySQL, Redis, Flutter, Dart
+- [🌐 Live Site](https://www.famstrack.com)
+
 <!-- ### [Awesome Game Title]
 *A fun and addictive 2D platformer game.*
 - **Tech Stack**: Unity, C#
